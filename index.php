@@ -18,8 +18,8 @@
       <span style="color: #4d4dff;">Project Arithmetics</span> is an open-source projects that aims <br>at vulgarizing mathematicals calculations.<br>The primary objective is to create <br>the <span style="color: #4d4dff;">largest database</span> of mathematical operations.<br>The project is currently under development <br>and you can contribute by clicking below
     </p>
     <button class="read-more">Read More →</button>
-    <button class="btn btn-view">View</button>
-    <button class="btn btn-contribute">Contribute</button>
+    <button class="btn btn-view"><a href="calculator.php">View</a></button>
+    <button class="btn btn-contribute"><a href="https://github.com/Rizinkovic/project-arithmetics">Contribute</a></button>
   </div>
   <aside class="right-sidebar">
     <label>Resources :</label>
